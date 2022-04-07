@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM "%.2\n"
+printf "%0.2\n" $NUM
